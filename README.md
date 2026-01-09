@@ -1,0 +1,1 @@
+A Power BI–based analytical report showcasing data modeling, DAX measures, and interactive dashboards. The project focuses on visualizing key business metrics and transforming raw data into meaningful insights for informed decision-making.
